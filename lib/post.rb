@@ -4,7 +4,7 @@ class Post
   def title
     "Hello World"
   end
-    
+
 
 
 end
