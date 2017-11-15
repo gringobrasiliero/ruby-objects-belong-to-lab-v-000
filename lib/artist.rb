@@ -3,4 +3,3 @@
 def Artist
 
 end
-
